@@ -1,3 +1,20 @@
 exporter_name: product_csv
 exporter_type: csv
 collection: products
+fields:
+  - header: "Title"
+    path: "title"
+  - header: "Current Price"
+    path: "current_price"
+  - header: "Original Price"
+    path: "original_price"
+  - header: "Rating"
+    path: "rating"
+  - header: "Review Count"
+    path: "review_count"
+  - header: "Wallmart Number"
+    path: "wallmart_number"
+  - header: "Image Url"
+    path: "image_url"
+  - header: "Categories"
+    path: "categories"
