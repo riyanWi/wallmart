@@ -13,7 +13,7 @@ fields:
   - header: "Review Count"
     path: "review_count"
   - header: "Wallmart Number"
-    path: "wallmart_number"
+    path: "walmart_number"
   - header: "Image Url"
     path: "image_url"
   - header: "Categories"
